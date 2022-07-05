@@ -17,7 +17,7 @@ A magic box for Ozma's princesses.
 ## 偶尔使用的 / Occasionally used
 
 - [![Github](https://img.shields.io/badge/-GitHub-black?logo=GitHub&style=flat-square)](https://github.com/Catchyou21)&nbsp;
-- [![Bili](https://img.shields.io/badge/-Bilibili-fb7299?logo=bilibili&logoColor=white&style=flat-square)](https://space.bilibili.com/297469854)&nbsp;
+- [![Bilibili](https://img.shields.io/badge/-Bilibili-fb7299?logo=bilibili&logoColor=white&style=flat-square)](https://space.bilibili.com/297469854)&nbsp;
 
 ## 喜欢的东西 / Things I like
 - Music
