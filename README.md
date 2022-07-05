@@ -4,11 +4,11 @@
 
 > 豬突猛進，武運昌隆。
 
+------------------------
+
 ## 简介 / Introduction
 - 一个正在努力发育的未来中单法王。
 - 依葫芦画瓢的产物。
-
-------------------------
 
 ## 所使用的 / The used
   - Mainly used
@@ -20,6 +20,7 @@
 ## 喜欢的东西 / Things I like
 - Music
 - Games
+  - 王者荣耀
 
 ## 编程语言 / Programming Language
 - [![TS](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)](https://www.typescriptlang.org/)
