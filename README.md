@@ -36,4 +36,4 @@
 
 ## 统计数据 / Stats
 
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Catchyou21&theme=light)](https://github.com/Catchyou21)
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Catchyou21&theme=react-dark)](https://github.com/Catchyou21)
