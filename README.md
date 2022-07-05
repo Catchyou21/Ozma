@@ -8,6 +8,8 @@
 - 一个正在努力发育的未来中单法王。
 - 依葫芦画瓢的产物。
 
+------------------------
+
 ## 所使用的 / The used
   - Mainly used
       > [![Windows](https://img.shields.io/badge/Windows-10-4e9eee?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows/windows-10)&nbsp;[![VS](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=flat-square)](https://visualstudio.microsoft.com/)&nbsp;
