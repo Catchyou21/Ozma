@@ -1,4 +1,4 @@
-> Ozma
+> Ozma.
 > A magic box for Ozma's princesses.
 
 # Hello World, Hello Github. :rainbow:
