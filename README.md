@@ -5,16 +5,15 @@
 > 豬突猛進，武運昌隆。
 
 ## 简介 / Introduction
-- 查无此人。。。无可奉告。。。
-- Not Found 404
-- 依葫芦画瓢的产物。。。
+- 一个正在努力发育的未来中单法王。
+- 依葫芦画瓢的产物。
 
 ## 所使用的 / The used
   - Mainly used
       > [![Windows](https://img.shields.io/badge/Windows-10-4e9eee?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows/windows-10)&nbsp;[![VS](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=flat-square)](https://visualstudio.microsoft.com/)&nbsp;
 
   - Occasionally used
-      > .[![Github](https://img.shields.io/badge/-GitHub-black?logo=GitHub&style=flat-square)](https://github.com/Catchyou21)&nbsp;[![Bilibili](https://img.shields.io/badge/-Bilibili-fb7299?logo=bilibili&logoColor=white&style=flat-square)](https://space.bilibili.com/297469854)&nbsp;
+      > [![Github](https://img.shields.io/badge/-GitHub-black?logo=GitHub&style=flat-square)](https://github.com/Catchyou21)&nbsp;[![Bilibili](https://img.shields.io/badge/-Bilibili-fb7299?logo=bilibili&logoColor=white&style=flat-square)](https://space.bilibili.com/297469854)&nbsp;
 
 ## 喜欢的东西 / Things I like
 - Music
@@ -32,5 +31,4 @@
   - [![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)](https://developer.oracle.com/java/)
 
 ## 统计数据 / Stats
-
 [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Catchyou21&theme=react-dark)](https://github.com/Catchyou21)
