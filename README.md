@@ -1,7 +1,6 @@
-> Ozma. [A magic box for Ozma's princesses.]
-
 # Hello World, Hello Github. :rainbow:
 
+> Ozma. [A magic box for Ozma's princesses.]
 > 豬突猛進，武運昌隆。
 
 ## 简介 / Introduction
