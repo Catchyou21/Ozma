@@ -11,13 +11,11 @@
 
 ## 主要使用的 / Mainly used
 
-- [![Windows](https://img.shields.io/badge/Windows-10-4e9eee?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows/windows-10)
-- [![VS](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=flat-square)](https://visualstudio.microsoft.com/)
+[![Windows](https://img.shields.io/badge/Windows-10-4e9eee?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows/windows-10)&nbsp;[![VS](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=flat-square)](https://visualstudio.microsoft.com/)&nbsp;
 
 ## 偶尔使用的 / Occasionally used
 
-- [![Github](https://img.shields.io/badge/-GitHub-black?logo=GitHub&style=flat-square)](https://github.com/Catchyou21)&nbsp;
-- [![Bilibili](https://img.shields.io/badge/-Bilibili-fb7299?logo=bilibili&logoColor=white&style=flat-square)](https://space.bilibili.com/297469854)&nbsp;
+[![Github](https://img.shields.io/badge/-GitHub-black?logo=GitHub&style=flat-square)](https://github.com/Catchyou21)&nbsp;[![Bilibili](https://img.shields.io/badge/-Bilibili-fb7299?logo=bilibili&logoColor=white&style=flat-square)](https://space.bilibili.com/297469854)&nbsp;
 
 ## 喜欢的东西 / Things I like
 - Music
