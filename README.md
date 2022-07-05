@@ -23,8 +23,8 @@
 - Games
 
 ## 主要编程语言 / Main Programming Language
-- ![JS](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=white&style=flat-square)
 - [![TS](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)](https://www.typescriptlang.org/)
+- ![JS](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=white&style=flat-square)
 - Learning
   - [![Python](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=white&style=flat-square)](https://www.python.org/)
   - [![C++](https://img.shields.io/badge/-C++-00599c?logo=cplusplus&logoColor=white&style=flat-square)](https://isocpp.org/)
