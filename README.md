@@ -32,8 +32,7 @@
 - To learn
   - ![C#](https://img.shields.io/badge/-C%23%20%2F%20C%20Sharp-239120?logo=csharp&logoColor=white&style=flat-square)
   - [![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)](https://developer.oracle.com/java/)
-  - [![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat-square)](https://www.r-project.org/)
 
 ## 统计数据 / Stats
 
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Catchyou21&theme=react-dark)](https://github.com/Catchyou21)
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Catchyou21&theme=light)](https://github.com/Catchyou21)
