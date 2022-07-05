@@ -9,6 +9,7 @@
 ## 简介 / Introduction
 - 一个正在努力发育的未来中单法王。
 - 依葫芦画瓢的产物。
+- :new_moon: :waxing_crescent_moon: :first_quarter_moon: :waxing_gibbous_moon: :full_moon: :waning_gibbous_moon: :last_quarter_moon: :waning_crescent_moon:
 
 ## 所使用的 / The used
   - Mainly used
